@@ -1,0 +1,5 @@
+{
+  "name": "羽球雙打排點王",
+  "description": "一款智慧羽球雙打排點應用程式，管理場地、平衡球員上場順序，並使用 Gemini AI 進行賽事策略分析與講評。",
+  "requestFramePermissions": []
+}
